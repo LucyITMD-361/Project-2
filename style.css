@@ -1,4 +1,6 @@
-header{
-  margin-right: auto;
-  margin-left: auto;
+header {
+text-align: center
+}
+h2,h3,h4,p{
+  text-align: center
 }
