@@ -1,6 +1,32 @@
-header {
-text-align: center
+html{
+  background-color: #FFFAF0;
+  font-family:  "Times New Roman", Sans-serif, Serif; 
+  margin: 0;
+  padding: 0;
+	border: 0;
 }
-h2,h3,h4,p{
-  text-align: center
+
+
+#header {
+text-align: center;
+}
+h1,h2,h3,h4,p{
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  max-width:300px;
+  margin: 0 auto;
+  list-style-position: inside;
+
+}
+
+ul li{
+  padding: 5px;
+  background: #EE82EE;
+  
+}
+footer{
+  padding: 50px;
 }
