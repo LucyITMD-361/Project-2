@@ -114,6 +114,28 @@ img{
   display: block;
   margin: auto;
 }
+.contactNav{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #33FFFF  ;
+  
+}
+.contactNav2 a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.contactNav2 a:hover {
+  background-color: #99FF66;
+}
+.contactNav2{
+  float: left;
+  margin-left: 100px;
+}
 
 .generalList{
     text-align: center;
