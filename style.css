@@ -136,6 +136,15 @@ img{
   float: left;
   margin-left: 100px;
 }
+iframe{
+  display: block;
+  margin: auto;
+}
+.BackToT{
+  padding-top: 1cm;
+  padding-bottom: 0cm;
+  text-align: center;
+}
 
 .generalList{
     text-align: center;
