@@ -39,10 +39,13 @@ footer{
   overflow: hidden;
   background-color: #333;
   
+  
 }
 .resumeli{
   float: left;
   margin-left: 100px;
+  position: relative;
+  left: 200px;
 }
 
 
@@ -83,11 +86,13 @@ padding-top: 0cm;
   padding:0;
   overflow: hidden;
   background-color: #333;
-  
+
 }
 .navHomePG{
   float: left;
   margin-left: 100px;
+   position: relative;
+  left: 200px;
 }
 .navHomePG a{
   display: block;
@@ -135,6 +140,8 @@ img{
 .contactNav2{
   float: left;
   margin-left: 100px;
+  position: relative;
+  left: 200px;
 }
 iframe{
   display: block;
