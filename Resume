@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html>
     <head>
         <title>Lucero Garcia's Resume</title>
@@ -13,21 +9,21 @@ and open the template in the editor.
 
     </head>
     <body>
-        <header>
-            <nav >
-              
-                <ul class="resumeNav">
-                  
-                     <li class="resumeli"><a href ="Home%20Page.html">Homepage</a></li>
-                     <li class="resumeli"><a href ="Resume.html">Resume</a></li>
-                     <li class="resumeli"><a href ="index.html">Index</a></li>
-                     <li class="resumeli"><a href ="Contact.html">Contact</a></li>
-                     <li class="resumeli"><a href ="AboutMe.html">About Me</a></li>
-                    
-                </ul>
-             
+       <body>
+       <div class="newClass">
+            <p class="newClassFont">Lucero<p><br>
+       </div>
+            <p class ="uniqueFont">Garcia</p>
+     <header>
+            <nav class="resumeNav">
+
+                <div class="navHomePG"> <a href ="Home%20Page.html">Homepage</a></div>
+                <div class="navHomePG"> <a href ="Resume.html">Resume</a> </div>
+                <div class="navHomePG"> <a href ="index.html">Index</a> </div>
+                <div class="navHomePG"> <a href ="Contact.html">Contact</a> </div>
+                <div class="navHomePG"> <a href ="AboutMe.html">About Me</a> </div>
+            
             </nav>
-        </header>
         <h1 id="resumeT">Lucero Garcia's Resume</h1>
         <section id="pinfo">
             <h3 id ="contInf">Contact Information</h3>
