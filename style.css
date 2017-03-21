@@ -27,10 +27,21 @@ footer{
    
     background:  radial-gradient(white, #EE82EE, #EE82EE);
   
-    border: 25px black;
+    border: 20px black;
     padding: 25px;
     margin: auto;
-    width: 300px;;
+    width: 300px;
+  border-style: double;
+
+}
+
+#indexNav a:hover{
+  background-color: #111;
+ padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
 }
  
 #email{
@@ -47,13 +58,12 @@ footer{
 .resumeNav{
   list-style-type: none;
   margin:0;
+  padding: 50px;
  
-  padding:50px;
-  
   overflow: hidden;
   background:  linear-gradient(magenta, pink);
- margin-top: -170px;
-   z-index: -1;
+  margin-top: -170px;
+  z-index: -1;
 
   
 }
@@ -132,15 +142,16 @@ padding-top: 0cm;
   font-weight: bold;
   font-size: 50px;
   font-family: fantasy, Helvetica, sans-serif;
-  width: 600px;
+  width: 700px;
   margin-left: 0px;
-  text-align: left;
+  text-align: left ;
+
   padding-top: 0rem;
+  padding-bottom: 0rem;
   padding-left: 1rem;
-  margin-bottom: -200cm;
-  
-  
+  margin-bottom: -150cm; 
 }
+
 
 .uniqueFont{
   
@@ -155,11 +166,12 @@ padding-top: 0cm;
   text-align: left;
   margin-top: 0px;
   padding-left: 1rem;
+    
 }
 
 .boxedP{
    margin: auto;
-  
+  border-style: double;
     background-color: white;
    padding:25px; 
  
