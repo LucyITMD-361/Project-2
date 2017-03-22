@@ -24,6 +24,7 @@ footer
 
 #indexNav
 {
+
    padding: 5px;
    text-align: center;
    color: #EE82EE;
@@ -33,6 +34,7 @@ footer
    margin: auto;
    width: 300px;
    border-style: double;
+   
 
 }
 
@@ -104,7 +106,12 @@ footer
 }
 .resumeLeft
 {
+  
    text-align: left;
+}
+#resumePosition{
+  position:fixed;
+  width: 960px;
 }
 #creator
 {
